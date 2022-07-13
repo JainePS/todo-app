@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-app/react-gh-pages/static/css/main.d6bf2387.css",
+    "main.js": "/todo-app/react-gh-pages/static/js/main.605be1ff.js",
+    "static/js/787.2843ca88.chunk.js": "/todo-app/react-gh-pages/static/js/787.2843ca88.chunk.js",
+    "index.html": "/todo-app/react-gh-pages/index.html",
+    "main.d6bf2387.css.map": "/todo-app/react-gh-pages/static/css/main.d6bf2387.css.map",
+    "main.605be1ff.js.map": "/todo-app/react-gh-pages/static/js/main.605be1ff.js.map",
+    "787.2843ca88.chunk.js.map": "/todo-app/react-gh-pages/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6bf2387.css",
+    "static/js/main.605be1ff.js"
+  ]
+}
