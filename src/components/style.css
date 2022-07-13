@@ -1,0 +1,10 @@
+.deafultStyle {
+    background-color: #BFE1B0;
+}
+
+.section__todos {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
